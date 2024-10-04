@@ -5,4 +5,16 @@
 ##### Titulo 5
 ###### Titulo 6
 
-Fundamentos de la programación
+* Bullet 1
+* Bullet 3
+* Bullet 3
+
+1. Uno
+2. Dos
+3. Tres
+4. Cuatro
+
+
+**texto negritas**
+_texto italica_
+***negras italica***
